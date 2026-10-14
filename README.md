@@ -13,7 +13,7 @@ teams: Número de seleções participantes.
 games: Número total de jogos disputados.
 attendance: Assistência total (público).  
 
-Bibliotecas Utilizadaspandas
+Bibliotecas Utilizadas
 pandas - Para manipulação, limpeza e análise da base de dados.  
 matplotlib.pyplot - Para a criação das visualizações e gráficos.   
 numpy - Para suporte em operações numéricas.  
